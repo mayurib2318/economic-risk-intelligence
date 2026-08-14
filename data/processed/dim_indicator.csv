@@ -1,0 +1,8 @@
+IndicatorCode,IndicatorName,Category,Unit
+GDP_Growth,GDP Growth,Economic Growth,Annual %
+GDP_per_Capita,GDP per Capita,Economic Growth,Current USD
+Inflation,Inflation Rate,Price Stability,Annual %
+Unemployment,Unemployment Rate,Labor Market,% of Labor Force
+Govt_Debt,Government Debt,Fiscal Strength,% of GDP
+FDI_Inflows,FDI Net Inflows,External Balance,% of GDP
+Current_Account,Current Account Balance,External Balance,% of GDP
